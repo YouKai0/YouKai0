@@ -1,0 +1,219 @@
+body {
+    font-family: arial, sans-serif;
+
+}
+
+
+nav {
+    width: 100%;
+    height: 60px;
+    background: #7464a7;
+}
+
+.logo {
+    font-size: 28px;
+    color: #fff;
+    line-height: 60px;
+    padding-left: 300px;
+    float: left;
+
+}
+
+.menu {
+    float: left;
+    padding-left: 490px;
+
+
+}
+
+.menu li {
+    padding-left: 10px;
+    color: #fff;
+    line-height: 60px;
+    float: left;
+    font-size: 15px;
+    margin-left: 60px;
+    text-transform: uppercase;
+}
+
+.main {
+    width: 100%;
+    height: calc(100% - 60px);
+    background: url(../img/youkai.png) 90% 100%/auto 85% no-repeat fixed, url(../img/phone.png) center/cover no-repeat fixed;
+    background-attachment:
+}
+
+.title__container {
+    line-height: 60px;
+    color: #5d5df5;
+    padding: 370px
+}
+
+.title__container h1 {
+    font-size: 70px;
+    font-weight: bold;
+    text-indent: 33px;
+    margin-top: 20px;
+    padding-left: 25px;
+}
+
+.title__container h4 {
+    font-size: 22px;
+    color: #8d8df9;
+    margin-top: 15px;
+    letter-spacing: 3px;
+    padding-right: 50px;
+
+}
+
+.title__container input {
+    height: 40px;
+    text-align: center;
+    border: 2px solid #5d5df5;
+    background: none;
+    border-radius: 10px;
+    margin-left: 55px;
+    padding: 10px;
+    color: #8d8df9;
+}
+
+.obomne h2 {
+    text-align: center;
+    border-bottom: 5px solid #2aecd8;
+    font-size: 22px;
+    font-weight: 600;
+    color: #5d5df5;
+    width: 115px;
+    margin: 40px auto;
+    padding-bottom: 15px;
+}
+
+.obomne {
+    width: 600px;
+    margin: 0 auto;
+}
+
+.obomne img {
+    display: block;
+    margin: 0 auto;
+}
+
+.obomne h6 {
+    margin-top: 20px;
+    margin-bottom: 30px;
+    color: #5d5df5;
+    margin-right: 100px;
+    font-weight: 400;
+    margin-right: 40px;
+    font-size: 16px;
+    padding-left: 20px;
+}
+
+.obomne input {
+    margin-left: 219px;
+    color: #8d8df9;
+    font-weight: 600;
+    font-size: 18px;
+    background: none;
+    border: 2px solid #5d5df5;
+    border-radius: 15px;
+    padding: 8px;
+}
+
+.kto {
+    margin-top: 80px;
+    background: url(../img/pone.png) 10% 0/auto 40% no-repeat;
+}
+
+.kto h2 {
+    text-align: center;
+    color: #5d5df5;
+    font-size: 30px;
+    padding-top: 60px;
+    font-weight: 600;
+    border-bottom: 4px solid #2aecd8;
+    width: 200px;
+    margin-left: 44%;
+    padding-bottom: 40px;
+}
+
+.skills {
+    float: left;
+    width: 290px;
+    text-align: center;
+    margin-left: 145px;
+    padding-right: 10px;
+    margin-top: 80px;
+    padding: 10px
+}
+
+.skills > img {
+    padding-bottom: 30px;
+}
+
+.skills h3 {
+    color: #5d5df5;
+    margin-bottom: 15px;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.skills h6 {
+    font-size: 15px;
+    color: #8d8df9;
+}
+
+.skillss {
+    padding-top: 450px;
+    text-align: center;
+}
+
+.skillss h3 {
+    font-size: 20px;
+    border-bottom: 4px solid #2aecd8;
+    width: 150px;
+    margin-left: 45%;
+    font-weight: 600;
+    padding: 20px;
+    color: #5d5df5;
+}
+
+.skillss h6 {
+    text-align: center;
+    padding-bottom: 60px;
+    margin-top: 35px;
+    margin-right: 50px;
+    font-size: 15px;
+    color: #8d8df9;
+}
+
+.skillss img {
+    width: 900px;
+}
+
+
+.oplata_container{
+    width: 400px;
+    float: left;
+    text-align: center;
+    border: 2px solid black;
+    
+    
+} 
+    
+
+
+
+
+
+
+
+
+
+
+
+.calculator {
+
+
+    padding-top: 1000px
+}
